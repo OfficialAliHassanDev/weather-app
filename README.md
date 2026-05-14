@@ -4,6 +4,11 @@ A modern animated weather website built using HTML, CSS, and JavaScript with liv
 
 ---
 
+## 🚀 Live Demo
+👉  https://officialalihassandev.github.io/weather-app/
+
+
+
 
 ## Screenshot
 
